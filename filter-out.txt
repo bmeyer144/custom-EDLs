@@ -1,3 +1,4 @@
 #Filter
 shopify.com
 *.shopify.com
+myshopify.com
