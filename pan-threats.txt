@@ -12,3 +12,4 @@
 # PAN threats
 pdfixers.com
 *.pdfixers.com
+pdfixers.com
