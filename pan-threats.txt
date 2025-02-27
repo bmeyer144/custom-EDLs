@@ -1,14 +1,14 @@
 #Top 10 TLDs to block
-.qpon
-.shop
-.black
-.xin
-.monster
-.coupons
-.watch
-.green
-.ren
-.baby
+*.qpon
+*.shop
+*.black
+*.xin
+*.monster
+*.coupons
+*.watch
+*.green
+*.ren
+*.baby
 # PAN threats
 pdfixers.com
 *.pdfixers.com
