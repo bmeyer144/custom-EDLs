@@ -3,3 +3,5 @@ shopify.com
 *.shopify.com
 myshopify.com
 yahoo.com
+*.jpa.yahoo.com
+jpa.yahoo.com
