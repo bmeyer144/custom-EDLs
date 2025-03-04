@@ -2,3 +2,4 @@
 shopify.com
 *.shopify.com
 myshopify.com
+yahoo.com
