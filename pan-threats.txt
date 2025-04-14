@@ -1,6 +1,5 @@
 # PAN threats
 pdfixers.com
-*.pdfixers.com
 turefigen.b-cdn.net
 b-cdn.net
 # sports streams
