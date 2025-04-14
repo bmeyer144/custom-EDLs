@@ -25,4 +25,25 @@
 # PAN threats
 pdfixers.com
 *.pdfixers.com
+# sports streams
+hesgoal.com
+totalsportek.com
+livetv.sx
+yalla-shoot.com
+sportsurge.net
+nflbite.com
+livesoccertv.com
+vipleague.lc
+rojadirecta.me
+buffstreams.sx
+ronaldo7.net
+yalla-shoot.today
+jokerlivestream.net
+sportstream.tv
+footballfancast.com
+vipboxtv.se
+viprow.me
+nbabite.com
+laola1.at
+footlive.me
 
