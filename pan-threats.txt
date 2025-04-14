@@ -1,27 +1,3 @@
-#TTLDs to block
-*.qpon
-*.shop
-*.black
-*.xin
-*.monster
-*.coupons
-*.watch
-*.green
-*.ren
-*.baby
-*.tk
-*.buzz
-*.xyz
-*.top
-*.ga
-*.ml
-*.live
-*.wang
-*.cn
-*.ru
-*.icu
-*.gq
-*.cf
 # PAN threats
 pdfixers.com
 *.pdfixers.com
