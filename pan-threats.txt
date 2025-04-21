@@ -1,7 +1,6 @@
 # PAN threats
 pdfixers.com
 turefigen.b-cdn.net
-b-cdn.net
 # sports streams
 7plus.com.au
 bosscast.eu
