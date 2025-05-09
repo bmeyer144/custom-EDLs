@@ -1,6 +1,9 @@
 # PAN threats
 pdfixers.com
 turefigen.b-cdn.net
+# Malcious Content
+zcb2lkabnc5rd8.z13.web.core.windows.net
+web.blz21prdstr05a.store.core.windows.net
 # sports streams
 7plus.com.au
 bosscast.eu
